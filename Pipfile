@@ -6,6 +6,7 @@ name = "pypi"
 ipykernel = "*"
 snownlp = "*"
 ggplot = "*"
+xlrd = "*"
 [dev-packages]
 [requires]
 python_version = "3.6"
