@@ -5,3 +5,4 @@ dependencies:
     - snownlp
     - ggplot
     - xlrd
+    - pandas
