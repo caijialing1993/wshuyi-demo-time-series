@@ -1,8 +1,8 @@
 dependencies:
 - python=3
 - pip: 
-- ipykernel   
-- snownlp  
-- ggplot
+ - ipykernel   
+ - snownlp  
+ - ggplot
    
 
