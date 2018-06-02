@@ -1,9 +1,8 @@
 dependencies:
-  - python=3
-  - pip:
-    - ipykernel
-    - statsmodels == 0.8.0
-    - plotnine
-    - seaborn
-    - requests
+- python=3
+- pip: 
+- ipykernel   
+- snownlp  
+- ggplot
+   
 
