@@ -6,6 +6,7 @@ name = "pypi"
 ipykernel = "*"
 snownlp = "*"
 ggplot = "*"
+plotnine = "*"
 xlrd = "*"
 pandas = "*"
 [dev-packages]
