@@ -4,5 +4,6 @@ dependencies:
     - ipykernel
     - snownlp
     - ggplot
+    - plotnine
     - xlrd
     - pandas
